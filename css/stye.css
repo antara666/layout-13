@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: rgb(83, 123, 3);
+    color: aliceblue;
+    text-align: center;
+    height: 100px;
+}
+.banner{
+    background-color: rgb(107, 158, 4);
+    color: aliceblue;
+    text-align: center;
+    height: 200px;
+}
+.nav{
+    overflow: hidden;
+}
+.nav_one{
+    background-color: rgb(101, 136, 33);
+    color: aliceblue;
+    text-align: center;
+    height: 60px;
+    width: 25%;
+    float: left;
+}
+.nav_two{
+    background-color: rgb(132, 164, 67);
+    color: aliceblue;
+    text-align: center;
+    height: 60px;
+    width: 25%;
+    float: left;
+}
+.nav_three{
+    background-color: rgb(101, 136, 33);
+    color: aliceblue;
+    text-align: center;
+    height: 60px;
+    width: 25%;
+    float: left;
+}
+.nav_four{
+    background-color: rgb(133, 183, 33);
+    color: aliceblue;
+    text-align: center;
+    height: 60px;
+    width: 25%;
+    float: left;
+}
+.content{
+    overflow: hidden;
+}
+.left_content{
+    background-color: rgb(190, 224, 122);
+    color: aliceblue;
+    text-align: center;
+    height: 400px;
+    width: 60%;
+    float: left;
+}
+.right_content{
+    background-color: rgb(42, 50, 25);
+    height: 400px;
+    width: 40%;
+    float: right;
+}
+.top{
+    background-color: rgb(82, 108, 29);
+    color: aliceblue;
+    text-align: center;
+    height: 150px;
+    width: 100%;
+}
+.bottom{
+    background-color: rgb(108, 141, 44);
+    color: aliceblue;
+    text-align: center;
+    height: 250px;
+    width: 100%;
+}
+.summary{
+    background-color: rgb(125, 168, 39);
+    color: aliceblue;
+    text-align: center;
+    height: 250px;
+}
+footer{
+    background-color: rgb(83, 123, 3);
+    color: aliceblue;
+    text-align: center;
+    height: 100px;
+}
